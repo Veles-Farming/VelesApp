@@ -70,7 +70,7 @@ const App: () => Node = () => {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Veles Farming">
-            Here you can <Text style={styles.highlight}>Remotely</Text> Control all the functions of the container units!
+            Here you can <Text style={styles.highlight}>Remotely</Text> Control all the functions of the container units!{'\n'} {'\n'} hope this works lmao, hi chris
           </Section>
           <Section title="See Your Changes">
             Once you change something, you can observe it change in <Text style={styles.highlight}>Real Time!</Text>

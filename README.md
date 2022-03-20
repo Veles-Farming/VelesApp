@@ -143,6 +143,4 @@ Project Link: [https://github.com/Riae/VelesApp](https://github.com/Riae/VelesAp
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [None yet](#)
